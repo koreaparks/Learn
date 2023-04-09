@@ -1,3 +1,7 @@
+/*
+    쉬움..
+*/
+
 class Solution {
     fun solution(numbers: IntArray, goal: Int): IntArray {
         val split = numbers.mapIndexed { index, it -> index to it}
