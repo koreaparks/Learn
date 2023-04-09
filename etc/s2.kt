@@ -1,3 +1,7 @@
+/*
+    쉬움..
+*/
+
 class Solution {
     fun solution(str: String): String {
         val moeum = arrayOf("a", "e", "i", "o", "u")
